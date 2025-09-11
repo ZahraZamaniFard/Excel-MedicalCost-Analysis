@@ -8,4 +8,4 @@ I analyzed the Medical Cost dataset by:
 - Calculating average cost for non-smokers
 - Calculating average cost for smokers with BMI over 30
 
-Tools used: Microsoft Excel (Formulas, Pivot Tables)
+Tools used: Microsoft Excel.
